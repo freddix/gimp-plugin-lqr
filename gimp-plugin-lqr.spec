@@ -1,11 +1,11 @@
 Summary:	Liquid Rescale GIMP plug-in
 Name:		gimp-plugin-lqr
-Version:	0.7.1
-Release:	2
+Version:	0.7.2
+Release:	1
 License:	GPL v2+
 Group:		X11/Applications/Graphics
 Source0:	http://liquidrescale.wikidot.com/local--files/en:download-page-sources/gimp-lqr-plugin-%{version}.tar.bz2
-# Source0-md5:	d7ee28b16bdbd9f46bc9f21cf5deb487
+# Source0-md5:	af7eb1a0d480bacfa6e5eff9b06bd877
 URL:		http://liquidrescale.wikidot.com/
 BuildRequires:	gettext-devel
 BuildRequires:	gimp-devel
